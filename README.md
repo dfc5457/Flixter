@@ -1,5 +1,5 @@
 # Flix
-Daniela Carannante
+
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ## Flix Part 2
@@ -24,7 +24,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/dfc5457/Flixter/blob/master/Walkthrough-Flixter%20part2.gif" width=250><br>
 
 ### Notes
 
@@ -50,8 +50,8 @@ A challange I encourntered was trying to get the youtube player to work on the e
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-<img src="https://github.com/dfc5457/FlixterApp/blob/master/Walkthrough-Flixter%20Horizontal.gif" width=250><br>
-<img src="https://github.com/dfc5457/FlixterApp/blob/master/Walkthrough-Flixter.gif" width=250><br>
+<img src="https://github.com/dfc5457/Flixter/blob/master/Walkthrough-Flixter.gif" width=250><br>
+<img src="https://github.com/dfc5457/Flixter/blob/master/Walkthrough-Flixter%20Horizontal.gif" width=250><br>
 
 ### Notes
 One of the difficulties I encountered figuring out where to create a new package or files for different responsibilities. I also had some troubles connecting to GitHub. Lastly, I had some problems with the figuring out the correct sizes for the words for the descriptions and titles.
